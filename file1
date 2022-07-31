@@ -1,6 +1,10 @@
 Hello form Git!
 
+<<<<<<< HEAD
 
 branch 2
 
 branch test
+=======
+using sourcetree
+>>>>>>> Branch1
